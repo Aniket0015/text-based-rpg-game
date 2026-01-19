@@ -1,4 +1,4 @@
- <h1>Text-Based RPG Game<h1>
+Text-Based RPG Game
 
 ## Overview
 This project is a text-based RPG game built using C++. It features a player class, multiple enemy types, a combat system, and an inventory system. The game implements Object-Oriented Programming (OOP) concepts like inheritance and polymorphism to create different weapon and enemy types.
